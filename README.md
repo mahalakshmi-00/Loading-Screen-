@@ -1,4 +1,4 @@
-﻿# Loading-Screen-
+﻿# Loading-Screen
  # Loading Animation Example
 
 This is a simple loading animation with styled text and a rotating loader, inspired by Slack's sidebar theme loading screen. The animation uses basic HTML and CSS.
